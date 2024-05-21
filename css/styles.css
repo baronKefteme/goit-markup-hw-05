@@ -578,7 +578,6 @@ ul {
     text-align: center;
     color: #2e2f42;
     margin-bottom: 16px;
-    margin-top: 72px;
 }
 .modalinput{
     width: 100%;
@@ -659,7 +658,6 @@ input:checked + label > span{
     min-height: 120px;
     padding:8px 16px;
     resize: none;
-    margin-bottom: 16px;
     font-size: 12px;
     line-height: 1.17;
     letter-spacing: 0.04em;
@@ -747,7 +745,6 @@ input:checked + label > span{
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 16px;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
